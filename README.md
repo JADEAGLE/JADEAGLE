@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://app.daily.dev/JAD3AGLE"><img src="https://api.daily.dev/devcards/261c994d32704b77a8bcc1b1d8107c56.png?r=emb" width="400" alt="Juan van Rooyen's Dev Card"/></a>
 <!--
 **JADEAGLE/JADEAGLE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
