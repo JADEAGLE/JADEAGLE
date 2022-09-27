@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juan van Rooyen</h1>
 <h3 align="center">We grow to give and rise by lifting others. I love helping and knowing people learn, to see the world as it is.</h3>
 
+<div align="center">
 <a href="https://app.daily.dev/JAD3AGLE"><img src="https://api.daily.dev/devcards/261c994d32704b77a8bcc1b1d8107c56.png?r=emb" width="400" alt="Juan van Rooyen's Dev Card"/></a>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadeagle&label=Profile%20views&color=0e75b6&style=flat" alt="jadeagle" /> </p>
 
