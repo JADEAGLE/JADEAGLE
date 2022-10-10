@@ -3,8 +3,10 @@ kind: Component
 metadata:
   name: JADEAGLE
   annotations:
-    github.com/project-slug: JADEAGLE/JADEAGLE
+    backstage.io/techdocs-ref: https://github.com/JADEAGLE/JADEAGLE/blob/main/catalog-info.yaml
 spec:
-  type: other
-  lifecycle: unknown
+  type: website
+  lifecycle: experimental
   owner: guests
+  system: examples
+  providesApis: [JADEAGLE]
