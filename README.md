@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan van Rooyen</h1>
-<h3 align="center">"We grow to give and rise by lifting others." 
+<h3 align="center">"We grow to give and rise by lifting others." /n
   - Jordan Harbinger 
   I love to help and know people and find joy in continuous learning.</h3>
 
