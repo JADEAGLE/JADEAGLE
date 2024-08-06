@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan van Rooyen</h1>
-<h3 align="center">"We grow to give and rise by lifting others."</h3><p>
-- Jordan Harbinger 
-</h3><p>
-I love to help and know people and find joy in continuous learning.</h3>
+<h3 align="center">"We grow to give and rise by lifting others."</h3>
+<h3 align="center">- Jordan Harbinger</h3>
+<h3 align="center">I love to help and know people and find joy in continuous learning.</h3>
 
 <div align="center">
   <a href="https://app.daily.dev/jad3agle"><img src="https://api.daily.dev/devcards/v2/qzZqcFkAderfWAriZvS07.png?type=wide&r=m91" width="652" alt="Juan van Rooyen's Dev Card"/></a>
