@@ -2,7 +2,7 @@
 <h3 align="center">We grow to give and rise by lifting others. I love to help and know people and find joy in continuous learning.</h3>
 
 <div align="center">
-<a href="https://app.daily.dev/JAD3AGLE"><img src="https://api.daily.dev/devcards/261c994d32704b77a8bcc1b1d8107c56.png?r=emb" width="400" alt="Juan van Rooyen's Dev Card"/></a>
+  <a href="https://app.daily.dev/jad3agle"><img src="https://api.daily.dev/devcards/v2/qzZqcFkAderfWAriZvS07.png?type=wide&r=m91" width="652" alt="Juan van Rooyen's Dev Card"/></a>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadeagle&label=Profile%20views&color=0e75b6&style=flat" alt="jadeagle" /> </p>
